@@ -5,8 +5,8 @@ class config:
     DATABASE_URL = "postgres://csjuuowo:E8ceecrlT4_CNDe20hjsilQd-ZOLceRc@arjuna.db.elephantsql.com/csjuuowo"
     SUDO_USERS = "5468192421 5559979635  5504969603 1349301822 5623031120" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "838382204959-qd89i9vqhsanpmg2psc21lqaqenih7g2.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "949301144185-vr1puh4ggqak4blshv9cjimccc7es440.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
     SUPPORT_CHAT_LINK = "https:t.me/UTUMLBT"
 
 
