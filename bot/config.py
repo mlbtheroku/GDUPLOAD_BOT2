@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5861946623:AAGgy4F6sqLIs8FCzjNqN4ppgknw_2gvBRU"
+    APP_ID = "17894641"
+    API_HASH = "4e5b39e5c7c6066e5144dfc50cf466cf"
+    DATABASE_URL = "postgres://csjuuowo:E8ceecrlT4_CNDe20hjsilQd-ZOLceRc@arjuna.db.elephantsql.com/csjuuowo"
+    SUDO_USERS = "5468192421 5559979635  5504969603 1349301822 5623031120" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https:t.me/UTUMLBT"
 
 
 class BotCommands:
